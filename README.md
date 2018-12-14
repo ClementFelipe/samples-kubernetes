@@ -1,2 +1,2 @@
-# samples-kubernetes
-Samples of kubernetes concepts
+# Kubernetes samples
+Samples of kubernetes concepts and local installation.
